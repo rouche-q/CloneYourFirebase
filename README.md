@@ -3,7 +3,7 @@ A packages of tools for cloning every service of a Firebase DB to another
 
 ## Installation
 
-use [npm](https://www.npmjs.com/) to install packages and move the two json from the source Firebase and the destination Firebase
+use [npm](https://www.npmjs.com/) to install packages and move the two json of the source Firebase and the destination Firebase in the json directory
 
 ```bash
 git clone git@github.com:rouche-q/CloneYourFirebase.git
