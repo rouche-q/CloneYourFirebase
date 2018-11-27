@@ -1,0 +1,16 @@
+{
+  "name": "clone-firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"node CloneFirestore",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@google-cloud/firestore": "^0.19.0",
+    "firebase-admin": "^6.1.0"
+  }
+}
